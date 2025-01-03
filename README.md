@@ -87,4 +87,4 @@ Criar um objeto da classe `Livro`, exibir seus detalhes e aplicar um desconto no
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seuusuario/exercicios-java.git
+   git clone https://github.com/lucaslowhan/exercicios-03jan2025.git
